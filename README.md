@@ -1,7 +1,7 @@
 <div align="center">
   <h1>TCC Wesllen Vinicius 2022 - Uniron - União das escolas superiores de Rondônia</h1>
   <p>Next.js + Tailwind CSS + TypeScript.</p>
-  <p>Next.js + Tailwind CSS + TypeScript.</p>
+  <p>Versão 0.1.0</p>
 </div>
 
 ## Features
