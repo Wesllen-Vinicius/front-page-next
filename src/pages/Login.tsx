@@ -1,8 +1,11 @@
 import * as React from 'react';
 
+import Header from '@/components/layout/Header';
+
 export default function Login() {
   return (
     <body>
+      <Header />
       <div className='flex min-h-screen flex-col items-center justify-center bg-gray-100'>
         <div
           className='

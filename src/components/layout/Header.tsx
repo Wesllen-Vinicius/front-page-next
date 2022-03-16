@@ -3,8 +3,8 @@ import * as React from 'react';
 import UnstyledLink from '@/components/links/UnstyledLink';
 
 const links = [
-  { href: '/Login', label: 'Login' },
-  { href: '/', label: 'Acesso Restrito' },
+  { href: '/Login', label: 'Acesso Restrito' },
+  { href: '/', label: '' },
 ];
 
 export default function Header() {
@@ -12,7 +12,7 @@ export default function Header() {
     <header className='sticky top-0 z-50 bg-white'>
       <div className='layout flex h-14 items-center justify-between'>
         <UnstyledLink href='/' className='font-bold hover:text-gray-600'>
-          Home
+          Cotripam
         </UnstyledLink>
         <nav>
           <ul className='flex items-center justify-between space-x-4'>
